@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :phoenixapp, Phoenixapp.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "1234",
   hostname: "localhost",
   database: "phoenixapp_dev",
   stacktrace: true,
